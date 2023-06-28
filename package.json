@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/sofikin/cat-cafe-management/issues"
   },
-  "homepage": "https://github.com/sofikin/cat-cafe-management#readme"
+  "homepage": "https://github.com/sofikin/cat-cafe-management#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
 }
