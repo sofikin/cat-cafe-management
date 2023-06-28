@@ -1,0 +1,29 @@
+{
+  "name": "cat-cafe-management",
+  "version": "1.0.0",
+  "description": "A Cat Cafe Management System web application built with Node.js and Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofikin/cat-cafe-management.git"
+  },
+  "keywords": [
+    "cat",
+    "cafe",
+    "management",
+    "system",
+    "web",
+    "application",
+    "Node.js",
+    "Express"
+  ],
+  "author": "Sofia Kalpin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofikin/cat-cafe-management/issues"
+  },
+  "homepage": "https://github.com/sofikin/cat-cafe-management#readme"
+}
