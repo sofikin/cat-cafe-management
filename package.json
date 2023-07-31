@@ -28,6 +28,7 @@
   "homepage": "https://github.com/sofikin/cat-cafe-management#readme",
   "dependencies": {
     "ejs": "^3.1.9",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mysql2": "^3.5.2"
   }
 }
